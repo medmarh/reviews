@@ -1,2 +1,5 @@
+com\services\IServiceCall.class
 com\example\springboot\Application.class
+com\models\Client.class
+com\services\NBAStars.class
 com\example\springboot\HelloController.class
